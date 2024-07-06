@@ -1,0 +1,19 @@
+.brown {
+    Color: brown
+} 
+
+.ayman {
+    Border: 3px dotted pink;
+    padding: 100px 20px 200px 100px;
+    margin: 100px;
+    font-size: 20px;
+    font-weight: 300;
+    background-color: aqua
+    color: white;
+}
+.this-h3{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: orange;
+    display: block;
+}
